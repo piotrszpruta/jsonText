@@ -1,0 +1,30 @@
+[
+{
+"nazwa": "Czekolada mleczna Sport & Fitness",
+"opis": "Przykładowy opis produktu Czekolada mleczna Sport & Fitness",
+"zdjecie": "https://www.friars.co.uk/images/lindt-gold-milk-chocolate-bar-p504-7263_image.jpg",
+"ww": 0.28,
+"wbt": 0.22,
+"energia": 31.8125,
+"tluszcz": 2.19375,
+"weglowodany": 3.225,
+"blonnik": 0.11875,
+"bialko": 0.45625,
+"zelazo": 0.1875,
+"wapn": 15.5
+},
+{
+"nazwa": "Czekolada gorzka Sport & Fitness",
+"opis": "Przykładowy opis produktu Czekolada gorzka Sport & Fitness",
+"zdjecie": "https://vaya.in/recipes/wp-content/uploads/2018/02/Milk-Chocolate-1.jpg",
+"ww": 0.28,
+"wbt": 0.22,
+"energia": 31.8125,
+"tluszcz": 2.19375,
+"weglowodany": 3.225,
+"blonnik": 0.11875,
+"bialko": 0.45625,
+"zelazo": 0.1875,
+"wapn": 15.5
+}
+]
