@@ -1,30 +1,26 @@
 [
-{
-"nazwa": "Czekolada mleczna Sport & Fitness",
-"opis": "Przykładowy opis produktu Czekolada mleczna Sport & Fitness",
-"zdjecie": "https://www.friars.co.uk/images/lindt-gold-milk-chocolate-bar-p504-7263_image.jpg",
-"ww": 0.28,
-"wbt": 0.22,
-"energia": 31.8125,
-"tluszcz": 2.19375,
-"weglowodany": 3.225,
-"blonnik": 0.11875,
-"bialko": 0.45625,
-"zelazo": 0.1875,
-"wapn": 15.5
-},
-{
-"nazwa": "Czekolada gorzka Sport & Fitness",
-"opis": "Przykładowy opis produktu Czekolada gorzka Sport & Fitness",
-"zdjecie": "https://vaya.in/recipes/wp-content/uploads/2018/02/Milk-Chocolate-1.jpg",
-"ww": 0.28,
-"wbt": 0.22,
-"energia": 31.8125,
-"tluszcz": 2.19375,
-"weglowodany": 3.225,
-"blonnik": 0.11875,
-"bialko": 0.45625,
-"zelazo": 0.1875,
-"wapn": 15.5
-}
+  {
+    "nazwa": "Czekolada Deserowa Z Sokiem Jabłkowym I Żurawiną",
+    "opis": "Piękna czekolada z żurawiną i dodatkiem soku jabłkowego. Czekolada jest BEZCUKROWA. Zawiera 84% kakao. Czekolada waży 100 gram. Wymiar to: 82x156x13 mm.",
+    "zdjecie": "https://czekoladkinaokazje.pl/wp-content/uploads/2022/07/deserowa.jpg",
+    "ww": 0.16,
+    "wbt": 0.15,
+    "kcal": 21.8,
+  },
+  {
+    "nazwa": "Gorzka Czekolada Z Żurawiną I Probiotycznymi Bakteriami",
+    "opis": "",
+    "zdjecie": "https://czekoladkinaokazje.pl/wp-content/uploads/2023/09/probiotyczna.jpg",
+    "ww": 0.16,
+    "wbt": 0.15,
+    "kcal": 21.8,
+  },
+  {
+    "nazwa": "Gorzka Czekolada Z Żurawiną I Probiotycznymi Bakteriami",
+    "opis": "Piękne czekolada mleczna z nutką karmelu i żurawiną. Czekolada waży 100 gram. Wymiar to: 82x156x13 mm.",
+    "zdjecie": "https://czekoladkinaokazje.pl/wp-content/uploads/2022/07/mleczna.jpg",
+    "ww": 0.17,
+    "wbt": 0.12,
+    "kcal": 21.13,
+  }
 ]
